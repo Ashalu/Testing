@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/soc"
+            android:title="System On Chip" />
+        <item
+            android:id="@+id/device"
+            android:title="Device" />
+        <item
+            android:id="@+id/system"
+            android:title="System" />
+        <item
+            android:id="@+id/battery"
+            android:title="Battery" />
+        <item
+            android:id="@+id/thermal"
+            android:title="Thermal" />
+        <item
+            android:id="@+id/sensors"
+            android:title="Sensors" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:title="Help" />
+            <item
+                android:id="@+id/about"
+                android:title="About" />
+
+            <item
+                android:id="@+id/feedback"
+                android:title="Suggestion" />
+        </menu>
+    </item>
+
+</menu>

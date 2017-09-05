@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CPU-Z</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="all_tags">
+        <item>System On Chip</item>
+        <item>System Information</item>
+        <item>Device Information</item>
+        <item>Thermal Information</item>
+        <item>Sensor Information</item>
+        <item>Thermal Information</item>
+    </string-array>
+</resources>
