@@ -10,4 +10,22 @@
         <item>Sensor Information</item>
         <item>Thermal Information</item>
     </string-array>
+
+
+    <string-array name="deviceinfo">
+        <item>Device Id</item>
+        <item>Board</item>
+        <item>Brand</item>
+        <item>Device</item>
+        <item>Display</item>
+        <item>Fingerprint</item>
+        <item>Models</item>
+        <item>Tags</item>
+        <item>Manufacturer</item>
+        <item>Product</item>
+        <item>Serial</item>
+        <item>Host</item>
+        <item>Mobile Version</item>
+        <item>Radio Version</item>\
+    </string-array>
 </resources>
